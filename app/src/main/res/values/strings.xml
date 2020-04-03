@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Covid-19</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="confirmed">Confirmed</string>
+    <string name="recovered">Recoverd</string>
+    <string name="death">Deaths</string>
+    <string name="keterangan">Ket :</string>
+    <string name="world_summary_data">Ringkasan Data Dunia</string>
+    <string name="from_corona">Dari Covid-19</string>
+    <string name="last_update">Last Update</string>
+    <string name="indonesia_summary_data">Ringkasan Data Indonesia</string>
+
+    <!-- String menu bottom -->
+    <string name="home">Indonesia</string>
+    <string name="country">Global</string>
+    <string name="history">Information</string>
+
+
+    <string name="next">">"</string>
+    <string name="skip">lewati</string>
+    <string name="start">Mulai</string>
+
+    <string name="slide_1_title">KULINER</string>
+    <string name="slide_1_desc">Rasakan Berbagai Kuliner yang Akan Memanjakan Lidahmu</string>
+
+    <string name="slide_2_title">HOTEL</string>
+    <string name="slide_2_desc">Temukan Hotel yang Nyaman Untuk Istirahat Perjalananmu</string>
+
+    <string name="slide_3_title">WISATA</string>
+    <string name="slide_3_desc">Destinasi Menarik Menantimu. Segera Pilih Destinasi Wisatamu</string>
+
+    <string name="slide_4_title">GUIDE</string>
+    <string name="slide_4_desc">Cari Guide Untuk Menemani Perjalananmu Agar  semakin asyik </string>
+</resources>
